@@ -54,7 +54,7 @@ Site is live at https://tour-booking-website.netlify.app/
 Clone the project
 
 ```bash
-  git clone https://github.com/super1-1star/Tour-booking-Website.git
+  git clone https://github.com/akshansh77/Tour-Website.git
 ```
 
 Go to the project directory
@@ -75,12 +75,7 @@ Start the server
   npm run start
 ```
 
-## Acknowledgement
-
-* Thanks to Jonas Schmedtmann for creating this awesome beautiful website design
-
-
 ## License
 
-[GitHub: super1-1star](https://www.github.com/super1-1star)
+[GitHub: akshansh77](https://github.com/akshansh77)
 
